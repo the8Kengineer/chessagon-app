@@ -1,60 +1,77 @@
 ---
 layout: page
-title: Privacy Policy
-include_in_header: false
+title: Data Privacy
+include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+February 19th, 2020
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+# Data Privacy Policy
+This Privacy Policy governs the manner in which SiliconLoom LLC collects, uses, maintains and discloses information collected from users of the CHESSAGON® application. This privacy policy applies to the application and all products and services offered by SiliconLoom LLC for the CHESSAGON® mobile application.
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Personal identification information
+We currently do not collect personal information on any of our users. Users may select for themselves a public alias by which they would like to be known to other online players of CHESSAGON®.  When selecting an alias name, it is the users responsibility to not include any personal information within the alias name that they do not wish to publicly share.  SiliconLoom LLC is not responsible or liable for any personal information that the user includes in the public alias name. 
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+The public  alias is associated with your Apple® ID.  Your Apple® ID and all personal information associated with it, is stored and managed by Apple®.  We use the user’s self-declared public alias to match opponents using Apple® services on the iCloud® database.  Apple® assumes all liability for the security, management, API access, logon dialogs, and AppStore® transactions associated with your Apple® ID.
+<br>
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## Non-personal identification information
+We may collect non-personal identification information about users whenever they interact with our application.  Non-personal identification information may include the device type, technical information about the user’s means of connection to our application, such as the operating system and the Internet service providers utilized and other similar information.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## How we use collected information
+SiliconLoom LLC collects and uses alias information for the following purposes:
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
-<br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+* To ensure you have adequate internet connectivity in order to be able to reach and effectively use the iCloud® database.
+* To help automatically pair opponents for matches
+* To allow users to share matches with others publicly.
+* To save your online match history to the iCloud® database.
+* To store saved games to the iCloud® database.
+* To adjust your “Glicko” rating on a weekly basis.
+* To publish results of the aliases of the top rated players.
+* To determine your standings against other user aliases that you frequently play in online matches.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## How we protect your information
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your alias information, transaction information and data stored on the iCloud® database servers.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Sharing your personal information
+We do not sell, trade, or rent any user’s alias information to others. Our site/apps may, from time to time, contain links to and from the websites/apps of our partner networks, advertisers and affiliates. If you follow a link to any of these websites/apps, please note that these websites/apps have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites/apps.
+
+<br>
+
+## Changes to this privacy policy
+SiliconLoom LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+<br>
+
+## Your acceptance of these terms
+By using this application you signify your acceptance of this policy. If you do not agree to this policy, please do not use our application. Your continued use of the application following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+<br>
+
+## Contacting CHESSAGON Development
+If you have any questions about this Privacy Policy, the practices of this site, or your interactions with this site, please send an email to  chessagon@gmail.com with your questions and comments.
+
+## Reserved Rights
+CHESSAGON® 2017
+<br>
+registered trademark of SiliconLoom, LLC
+<br>
+<br>
+CHESSAGON® Game App
+<br>
+© 2017-2018 
+<br>
+All Rights Reserved by SiliconLoom, LLC
+<br>
+<br>
+This document was last updated on February, 19th, 2020
+
