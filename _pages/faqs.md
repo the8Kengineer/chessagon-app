@@ -40,7 +40,7 @@ include_in_header: true
   
   **Q:** How good is the AI-opponent in the CHESSAGON® app?
 
-  **A:** It is good enought beat one the inventors of the board game about 50% of the time; and still good enough to beat the other inventor of the board game and rules about 10% of the time.  It is beatable with practice, but it is ruthless on novices.
+  **A:** It is good enough beat one the inventors of the board game about 50% of the time; and still good enough to beat the other inventor of the board game and rules about 10% of the time.  It is beatable with practice, but it is ruthless on novices.
 
    <br>
    
@@ -52,7 +52,7 @@ include_in_header: true
  
  **Q:** Do you have to play the whole game in one setting?
 
- **A:** No... Any game can be paused and then resumed at your convenience.  Feel free to take all day.  Multiple games with multiple people... or the cumputer... can be played, paused, and resumed at any time.  There is always plenty of time to just sit and think a while... remember, it's a strategy game... and good strategy takes time to develop.
+ **A:** No... Any game can be paused and then resumed at your convenience.  Feel free to take all day.  Multiple games with multiple people... or the computer... can be played, paused, and resumed at any time.  There is always plenty of time to just sit and think a while... remember, it's a strategy game... and good strategy takes time to develop.
 
   <br>
  
