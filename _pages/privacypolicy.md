@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-February 19th, 2020
+March 20th, 2020
 
 # Data Privacy Policy
 This Privacy Policy governs the manner in which SiliconLoom LLC collects, uses, maintains and discloses information collected from users of the CHESSAGON® application. This privacy policy applies to the application and all products and services offered by SiliconLoom LLC for the CHESSAGON® mobile application.
@@ -19,7 +19,7 @@ The public  alias is associated with your Apple® ID.  Your Apple® ID and all p
 <br>
 
 ## Non-personal identification information
-We may collect non-personal identification information about users whenever they interact with our application.  Non-personal identification information may include the device type, technical information about the user’s means of connection to our application, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about users whenever they interact with our application.  Non-personal identification information may include the device type, technical information about the user’s means of connection to our application, such as the operating system and the Internet services are available for communication.
 
 <br>
 
@@ -43,7 +43,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 <br>
 
 ## Sharing your personal information
-We do not sell, trade, or rent any user’s alias information to others. Our site/apps may, from time to time, contain links to and from the websites/apps of our partner networks, advertisers and affiliates. If you follow a link to any of these websites/apps, please note that these websites/apps have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites/apps.
+We do not sell, trade, or rent any user’s alias information to any other parties. Your alias information is stored, secured, and retained only on your iCloud account.
 
 <br>
 
@@ -73,5 +73,5 @@ CHESSAGON® Game App
 All Rights Reserved by SiliconLoom, LLC
 <br>
 <br>
-This document was last updated on February, 19th, 2020
+This document was last updated on March, 20th, 2020
 

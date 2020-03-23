@@ -4,74 +4,75 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
 <br>
+
+________
+<br>
 # **Version 2**
-This is the first public release of our app. 
+History of the public releases of the CHESSAGON® app on the Apple AppStore for iPhone and iPad.
 
-### `Latest`
-### **Version 2.1.3**
-This is the first update to our app.  Updated for iOS 13+
-
+### `Latest Release`
+### **Version 2.1.13**
 #### What's New
-- Removed Ads
-- More Free Boards and Pieces
+- Removed All Advertisements
+- Updated to support iOS 13 and iPadOS 13
+- Support for new models of iPhone 11 and iPad Pro
+- Doubled the number of free Boards (4) and Piece Sets (4) available. Allows for a default of 16 total combinations of boards and piece sets to choose from for game play.
+- In-App purchase prices greatly reduced for Boards (8) and Piece Sets (8) bundles. Allows for a maximum of 144 total combinations of boards and piece sets to choose from for game play.
 
 #### Bug Fixes
-- Fixed freeze at splash scrren
-- Fixed exceptions when sound was enabled
+- Fixed app freezing at launch on iOS 13+ devices during splash screen.
+- Fixed exceptions on iOS 13+ when sound was enabled.
+- Fixed unable to scroll through saved matches screen.
+- Updated the Plumbline piece set to have a more distinct outline
 
 <br>
 
 ### `Initial Release`
 ### **Version 2.0.21**
 #### What's New
-- Full set of Pieces and Boards
-- [Changes to Privacy Policy](/privacypolicy)
+- Full set of  12 piece sets and 12  boards and highlighting sets to select from for play. 
+- Continued improvements of AI computer opponent for strength and speed.
 
 #### Bug Fixes
-- Fixed "AI" oppoenet skipping it's ow turn when in check.
+- Fixed "AI" oppoenet skipping it's own turn when in check.
 - Fixed "AI" opponent from moving through other pieces on the board.
 
 <br>
 
-
 ________
 <br>
 
-### `Beta-Test`
+
 # **Version 1**
-Initial internal testing and limited deployment.
+History of the limited releases of the CHESSAGON® app for internal testing and deployment.
 
 <br>
 
+### `Beta-Testing`
 ## **Version 1.1.0**
-Beta-Testing on TestFlight with external users.
-
 #### What's New
 - Basic play between two remote  players.
 - Added four more minimalist piece sets.
 - Added four more high definition boards.
-- Improved strength of "AI" computer opponent.
+- Improved strength of AI computer opponent.
 
 #### Bug Fixes
-- Fixed small glitches to "AI" in determining legality of advanced moves like en passant and castling.
-- Fixed issues with user sign up experience.
+- Fixed small glitches to AI computer opponent in determining the legality of advanced moves like en passant and castling.
+- Fixed issues with user alias sign up experience.
 
 <br>
 
+### `Alpha-Testing`
 ## Version 1.0.1
-Internal testing for direct team members.
-
 #### What's New
 - Basic play between two local players.
-- Basic "AI" computer opponent.
-- Two set of boards and piece sets to select from for the game.
+- Basic play with an AI computer opponent.
+- Selection between two boards and two piece sets for game play.
 
 #### Bug Fixes
-- Fixed minor crashes and hangs with the AI
-- Major adjustments for correctly handling all the various screen sizes and dimensions
+- Fixed minor crashes and hangs with the AI computer opponent.
+- Major adjustments for correctly handling all the iPhone screen sizes and dimensions
 
 <br>

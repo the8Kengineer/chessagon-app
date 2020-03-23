@@ -35,40 +35,40 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Custom Boards
-    description                           : Choose from 12 different boards and color schemes.
+    description                           : Choose from twelve different boards composed of natural Bamboo, Sandstone, Slate, Cork, Marble, Maple, Frost, Quiche, Furnace, Metal, Tropic and Picnic with space highlighting in complentary colors.
     fontawesome_icon_name                 : chess-board
-    
+
   - title                                 : Custom Pieces
-    description                           : Choose from 12 different styles of piece sets.
-    fontawesome_icon_name                 : chess-king
+    description                           : Choose from twelve different styles of piece sets with four traditional styles like Keystone and Newline; or choose from eight new styles uniquely designed for play in triangular spaces like Alice, Iconic, Signet and Plumbline.
+    fontawesome_icon_name                 : chess
 
-  - title                                 : Chess Variant
-    description                           : Based on a hexagonal board of dark and light triangles.
-    fontawesome_icon_name                 : mountain
+  - title                                 : Pawn
+    description                           : Moves forward one space to a space of the opposite color, point-to-point or face-to-face from its current position... Captures an opponent's piece by moving forward to a space of the same color, with points adjacent to its current space.
+    fontawesome_icon_name                 : chess-pawn
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Bishop
+    description                           : Moves on same color spaces along straight columns and rows in any of six directions, and must remain on its original color... Captures in the same way that it moves.
+    fontawesome_icon_name                 : chess-bishop
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Rook
+    description                           : Moves face-to-face along straight columns and rows in any of six directions, as long as it is not blocked by another piece... Captures in the same way that it moves.
+    fontawesome_icon_name                 : chess-rook
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Duke
+    description                           : Moves any number of spaces face-to-face then point-to-point in a straight line, in any of six directions, unless blocked by another piece... Captures in the same way that it moves.
+    fontawesome_icon_name                 : shield-alt
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Queen
+    description                           : Can move any number of spaces in any way that a Duke, a Rook, or a Bishop can move, as long as it is not blocked by another piece... Captures in the same manner as the Duke, the Rook, or the Bishop.
+    fontawesome_icon_name                 : chess-queen
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Knight
+    description                           : Jumps to one of twelve spaces of the opposite color, just beyond the triangle of spaces that surrounds it... Captures in the same way that it moves... Only piece that can position itself beyond the reach and threat of a Queen.
+    fontawesome_icon_name                 : chess-knight
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : King
+    description                           : Can move one space in any of twelve directions... Moves one space face-to-face, one space point-to-point, or one space with points adjacent to it's current position... Capturing in the same way that it moves.
+    fontawesome_icon_name                 : chess-king
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
