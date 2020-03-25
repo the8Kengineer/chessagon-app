@@ -18,13 +18,17 @@ Chessagon is a chess variant based on a hexagonal board of dark and light triang
 
 Chessagon is a strategy game for two players.  The game consists of a hexagon shaped board with 96 triangular spaces and 48 playing pieces.  There are seven types of pieces:  King, Queen, Duke, Bishop, Knight, Rook and Pawn.  The object of the game is to maneuver the pieces in such a way that the opponent’s King becomes trapped and cannot escape.  This is called checkmate.
 
-![Iconic Pieces](../assets/rulesimages/IconicFeature-300x300.png "Iconic Pieces")
+#### Piece Legend
 
-### Setup
+![Iconic Piece Legend](../assets/rulesimages/IconicFeature-300x300.png "Iconic Piece Legend")
+
+King(K), Queen(Q), Duke(D), Bishop(B), Duke(D), Knight(N), Rook(R), Pawn(P)
+
+#### Setup
 
 To begin the game, the playing pieces are arranged on the board as shown in the diagram.  Note that both the white Queen and the black Queen begin on a dark space.  The player with the white pieces moves first, and the players alternate turns thereafter.
 
-![Iconic Board Setup](../assets/rulesimages/IconicBoardFeature.png "Iconic Board Setup")
+![Chessagon Board Setup](../assets/rulesimages/IconicBoardFeature.png "Chessagon Board Setup")
 
  <br>
 
@@ -39,15 +43,15 @@ For simplicity in describing the moves, the vertices of the triangular spaces wi
 
 The Bishop moves on same color spaces along straight columns and rows in any of six directions, and must remain on its original color.  The Bishop that begins the game on a dark space, must remain on dark spaces for the duration of the game.  The dark Bishop moves along a row in a straight line of dark spaces with points adjacent to its current position, unless blocked by another piece.  If another piece is on a light space, the Bishop is not blocked and can proceed past that piece.  The light Bishop moves in the same manner on the light spaces.
 
-![Black Bishop](../assets/rulesimages/ExampleBM1-300x300.png "Bishop")
-![Black Bishop](../assets/rulesimages/ExampleBM2-300x300.png "Bishop")
+![Bishop Movement](../assets/rulesimages/ExampleBM1-300x300.png "Bishop Movement on Light")
+![Bishop Movement](../assets/rulesimages/ExampleBM2-300x300.png "Bishop Movement on Dark")
 
 #### Capture
 
 The Bishop captures on same color spaces along straight columns and rows in any of six directions.  For example, the Bishop that begins the game on a dark space can only capture an opponent’s piece residing on a dark space.  A Bishop captures pieces along the path that it travels on the board. The light Bishop captures in the same manner on the light spaces.
 
-![Black Bishop](../assets/rulesimages/ExampleBC1-300x300.png "Bishop")
-![Black Bishop](../assets/rulesimages/ExampleBC2-300x300.png "Bishop")
+![Bishop Capture](../assets/rulesimages/ExampleBC1-300x300.png "Bishop Capture on Dark")
+![Bishop Capture](../assets/rulesimages/ExampleBC2-300x300.png "Bishop Capture on Light")
 
 ### Rook ![Black Rook](../assets/rulesimages/bRookIconic-150x150.png "Rook")
 
@@ -55,16 +59,16 @@ The Bishop captures on same color spaces along straight columns and rows in any 
 
 The Rook moves face-to-face along straight columns and rows in any of six directions along three different axes, as long as it is not blocked by another piece.
 
-![Black Rook](../assets/rulesimages/ExampleRM1-300x300.png "Rook")
-![Black Rook](../assets/rulesimages/ExampleRM2-300x300.png "Rook")
+![Rook Movement](../assets/rulesimages/ExampleRM1-300x300.png "Rook Movement Right")
+![Rook Movement](../assets/rulesimages/ExampleRM2-300x300.png "Rook Movement Left")
 
 
 #### Capture
 
 The Rook captures in the same way that it moves. It can stop on a space of either color, capturing any opponent’s piece that is there.
 
-![Black Rook](../assets/rulesimages/ExampleRC1-300x300.png "Rook")
-![Black Rook](../assets/rulesimages/ExampleRC2-300x300.png "Rook")
+![Rook Capture](../assets/rulesimages/ExampleRC1-300x300.png "Right Rook Capture Forward")
+![Rook Capture](../assets/rulesimages/ExampleRC2-300x300.png "Left Rook Capture Forward")
 
 ### Duke ![Black Duke](../assets/rulesimages/bDukeIconic-150x150.png "Duke")
 
@@ -72,15 +76,15 @@ The Rook captures in the same way that it moves. It can stop on a space of eithe
 
 The Duke moves any number of spaces face-to-face then point-to-point in a straight line, in any of six directions along three axes, unless blocked by another piece.
 
-![Black Duke](../assets/rulesimages/ExampleDM1-300x300.png "Duke")
-![Black Duke](../assets/rulesimages/ExampleDM2-300x300.png "Duke")
+![Duke Movement](../assets/rulesimages/ExampleDM1-300x300.png "Duke Movement Left")
+![Duke Movement](../assets/rulesimages/ExampleDM2-300x300.png "Duke Movement Right")
 
 #### Capture
 
 The Duke captures in the same way that it moves.  It can stop on a space of either color, capturing any opponent’s piece that is there.
 
-![Black Duke](../assets/rulesimages/ExampleDC1-300x300.png "Duke")
-![Black Duke](../assets/rulesimages/ExampleDC2-300x300.png "Duke")
+![Duke Capture](../assets/rulesimages/ExampleDC1-300x300.png "Left Duke Capture")
+![Duke Capture](../assets/rulesimages/ExampleDC2-300x300.png "Right Duke Capture")
 
 ### Queen ![Black Queen](../assets/rulesimages/bQueenIconic-150x150.png "Queen")
 
@@ -88,15 +92,15 @@ The Duke captures in the same way that it moves.  It can stop on a space of eith
 
 The Queen is the most powerful piece.  It can move any number of spaces in any way that a Duke, a Rook, or a Bishop can move; as long as it is not blocked by another piece.
 
-![Black Queen](../assets/rulesimages/ExampleQM1-300x300.png "Queen")
-![Black Queen](../assets/rulesimages/ExampleQM2-300x300.png "Queen")
+![Queen Movement](../assets/rulesimages/ExampleQM1-300x300.png "Queen Movement Basics")
+![Queen Movement](../assets/rulesimages/ExampleQM2-300x300.png "Queen Movement Advanced")
 
 #### Capture
 
 The Queen also captures in the same manner as the Duke, the Rook, or the Bishop.  It can stop on a space of either color, capturing any opponent’s piece that is there.
 
-![Black Queen](../assets/rulesimages/ExampleQC1-300x300.png "Queen")
-![Black Queen](../assets/rulesimages/ExampleQC2-300x300.png "Queen")
+![Queen Capture](../assets/rulesimages/ExampleQC1-300x300.png "Queen Capture Basics")
+![Queen Capture](../assets/rulesimages/ExampleQC2-300x300.png "Queen Capture Advanced")
 
 ### Knight ![Black Knight](../assets/rulesimages/bKnightIconic-150x150.png "Knight")
 
@@ -104,26 +108,26 @@ The Queen also captures in the same manner as the Duke, the Rook, or the Bishop.
 
 The Knight jumps to one of twelve spaces of the opposite color, just beyond the triangle of spaces that surrounds it.  The Knight is the only piece that can jump over other pieces on the board.  It always moves to a space of the opposite color than it currently occupies.
 
-![Black Knight](../assets/rulesimages/ExampleNM1-300x300.png "Knight")
-![Black Knight](../assets/rulesimages/ExampleNM2-300x300.png "Knight")
+![Knight Movement](../assets/rulesimages/ExampleNM1-300x300.png "Left Knight Movement")
+![Knight Movement](../assets/rulesimages/ExampleNM2-300x300.png "Right Knight Movement")
 
 #### Capture
 
 The Knight captures in the same way that it moves. It always captures to a space of the opposite color than it currently occupies, capturing any opponent’s piece that is there.
 
-![Black Knight](../assets/rulesimages/ExampleNC1-300x300.png "Knight")
-![Black Knight](../assets/rulesimages/ExampleNC2-300x300.png "Knight")
+![Knight Capture](../assets/rulesimages/ExampleNC1-300x300.png "Left Knight Capture")
+![Knight Capture](../assets/rulesimages/ExampleNC2-300x300.png "Right Knight Capture")
 
 #### Beyond The Queen
 
 The Knight is the only piece that can position itself beyond the reach and threat of a Queen, but still capture the Queen. The ability of the knight to jump over over pieces and have an extended reach keeps the power of the Queen in check.
 
 
-![Black Knight](../assets/rulesimages/ExampleNQ1-300x300.png "Knight")
-![Black Knight](../assets/rulesimages/ExampleNQ2-300x300.png "Knight")
+![Knight Reaches Queen](../assets/rulesimages/ExampleNQ1-300x300.png "Knight Reaches Queen")
+![Knight Beyond Queen](../assets/rulesimages/ExampleNQ2-300x300.png "Knight Beyond Queen")
 
-![Black Knight](../assets/rulesimages/ExampleNQ3-300x300.png "Knight")
-![Black Knight](../assets/rulesimages/ExampleNQ4-300x300.png "Knight")
+![Knight Reaches Queen](../assets/rulesimages/ExampleNQ3-300x300.png "Knight Reaches Queen")
+![Knight Beyond Queen](../assets/rulesimages/ExampleNQ4-300x300.png "Knight Beyond Queen")
 
 ### King ![King Rook](../assets/rulesimages/bKingIconic-150x150.png "King")
 
@@ -131,8 +135,8 @@ The Knight is the only piece that can position itself beyond the reach and threa
 
 The King can move one space in any of twelve directions.  The King can move one space face-to-face, one space point-to-point, or one space with points adjacent to the King’s current position. The King may never move into check, which is any space currently vulnerable to attack by an opponent’s piece.
 
-![Black King](../assets/rulesimages/ExampleKM3-300x300.png "King")
-![Black King](../assets/rulesimages/ExampleKM4-300x300.png "King")
+![Light King Moves](../assets/rulesimages/ExampleKM3-300x300.png "Light King Moves")
+![Dark King Moves](../assets/rulesimages/ExampleKM4-300x300.png "Dark King Moves")
 
 #### Capture
 
@@ -146,21 +150,21 @@ The King captures in the same way that it moves.  If the King is in check, it mu
 
 If the King cannot be taken out of check in a single move, the King is considered to be in checkmate; and the game is over.
 
-![Black King](../assets/rulesimages/ExampleKC2-300x300.png "King")
-![Black King](../assets/rulesimages/ExampleKC3-300x300.png "King")
+![King Threatens Pieces](../assets/rulesimages/ExampleKC2-300x300.png "King Threatens Pieces")
+![King Takes Bishop](../assets/rulesimages/ExampleKC3-300x300.png "King Takes Bishop")
 
-![Black King](../assets/rulesimages/ExampleKC5-300x300.png "King")
-![Black King](../assets/rulesimages/ExampleKC6-300x300.png "King")
+![Duke Threatens King](../assets/rulesimages/ExampleKC5-300x300.png "Duke Threatens King")
+![King Takes Duke](../assets/rulesimages/ExampleKC6-300x300.png "King Takes Duke")
 
 #### Castling
 
 The King can make a castling move, which must be at least one space further than it normally moves, and involves repositioning a Rook to the opposite side of the King.  Neither the King nor the Rook may have been previously moved during the course of the game.  The King may castle either toward the Rook on the left or the Rook on the right.  There  cannot be any piece(s) of either color between the King and the Rook in order for castling to take place.  Each player may only castle once during a game.  The King may not castle out of check or through check.
 
-![Black King](../assets/rulesimages/ExampleKR1-300x300.png "King")
-![Black King](../assets/rulesimages/ExampleKR2-300x300.png "King")
+![Light King Castling Options](../assets/rulesimages/ExampleKR1-300x300.png "Light King's Castling Options")
+![Light King Castles Short](../assets/rulesimages/ExampleKR2-300x300.png "Light King Castles Short")
 
-![Black King](../assets/rulesimages/ExampleKR3-300x300.png "King")
-![Black King](../assets/rulesimages/ExampleKR4-300x300.png "King")
+![Dark King's Castling Options](../assets/rulesimages/ExampleKR3-300x300.png "Dark King's Castling Options")
+![Dark King Castles Long](../assets/rulesimages/ExampleKR4-300x300.png "Dark King Castles Long")
 
 ### Pawn ![Black Pawn](../assets/rulesimages/bPawnIconic-150x150.png "Pawn")
 
@@ -168,45 +172,45 @@ The King can make a castling move, which must be at least one space further than
 
 The Pawn can move two spaces forward point-to-point then face-to-face, or two spaces forward face-to-face then point-to-point on its opening move.
 
-![Black Pawn](../assets/rulesimages/ExamplePO1-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePO2-300x300.png "Pawn")
+![Light Pawn Opening Movement](../assets/rulesimages/ExamplePO1-300x300.png "Light Pawn Opening Movement")
+![Dark Pawn Opening Movement](../assets/rulesimages/ExamplePO2-300x300.png "Dark Pawn Opening Movement")
 
-![Black Pawn](../assets/rulesimages/ExamplePO3-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePO4-300x300.png "Pawn")
+![Light Pawn Opening Movement](../assets/rulesimages/ExamplePO3-300x300.png "Light Pawn Opening Movement")
+![Dark Pawn Opening Movement](../assets/rulesimages/ExamplePO4-300x300.png "Dark Pawn Opening Movement")
 
 #### Regular Movement
 
 The Pawn moves forward one space to a space of the opposite color, point-to-point or face- to-face from its current position.  It cannot move laterally or backward.  Other than the Pawn’s first move of the game, it usually has a choice of two spaces to which it can move at any one time.
 
-![Black Pawn](../assets/rulesimages/ExamplePR1-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePR2-300x300.png "Pawn")
+![Light Pawn Regular Movement](../assets/rulesimages/ExamplePR1-300x300.png "Light Pawn Regular Movement")
+![Dark Pawn Regular Movement](../assets/rulesimages/ExamplePR2-300x300.png "Dark Pawn Regular Movement")
 
 #### Regular Capture
 
 The Pawn captures an opponent’s piece by moving forward to a space of the same color, with points adjacent to its current space.  Other than the En Passant capture, it usually has three spaces to which it can capture at any one time.
 
-![Black Pawn](../assets/rulesimages/ExamplePC1-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePC2-300x300.png "Pawn")
+![Light Pawn Regular Capture](../assets/rulesimages/ExamplePC1-300x300.png "Light Pawn Regular Capture")
+![Dark Pawn Regular Capture](../assets/rulesimages/ExamplePC2-300x300.png "Dark Pawn Regular Capture")
 
-![Black Pawn](../assets/rulesimages/ExamplePC3-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePC5-300x300.png "Pawn")
+![Light Pawn Regular Capture](../assets/rulesimages/ExamplePC3-300x300.png "Light Pawn Regular Capture")
+![Dark Pawn Regular Capture](../assets/rulesimages/ExamplePC5-300x300.png "Dark Pawn Regular Capture")
 
 #### En Passant Capture
 
 A special way that a Pawn can capture is called En Passant.  This type of capture occurs when one Pawn is moved two spaces forward, in an attempt to avoid capture by the opponent’s Pawn.  The fleeing Pawn is captured by the opponent’s Pawn the same as if the player had moved the fleeing Pawn only one space forward.
 
-![Black Pawn](../assets/rulesimages/ExamplePE1-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePE2-300x300.png "Pawn")
+![Pawn En Passant Step 1](../assets/rulesimages/ExamplePE1-300x300.png "Pawn En Passant Step 1")
+![Pawn En Passant Step 2](../assets/rulesimages/ExamplePE2-300x300.png "Pawn En Passant Step 2")
 
-![Black Pawn](../assets/rulesimages/ExamplePE3-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePE4-300x300.png "Pawn")
+![Pawn En Passant Step 3](../assets/rulesimages/ExamplePE3-300x300.png "Pawn En Passant Step 3")
+![Pawn En Passant Step 4](../assets/rulesimages/ExamplePE4-300x300.png "Pawn En Passant Step 4")
 
 #### Rank Promotion
 
 If a Pawn advances all the way across the board to any one of the eight spaces at the back edge of the opponent’s side of the board, that Pawn is immediately promoted to a Queen.  If this occurs, it is possible for a player to have more than one Queen.
 
-![Black Pawn](../assets/rulesimages/ExamplePP1-300x300.png "Pawn")
-![Black Pawn](../assets/rulesimages/ExamplePP2-300x300.png "Pawn")
+![Pawn Rank Promotion Step 1](../assets/rulesimages/ExamplePP1-300x300.png "Pawn Rank Promotion Step 1")
+![Pawn Rank Promotion Step 2](../assets/rulesimages/ExamplePP2-300x300.png "Pawn Rank Promotion Step 2")
 
  <br>
  
