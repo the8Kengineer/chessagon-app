@@ -12,7 +12,7 @@ presskit_download_link                    : https://kanesga.gitlab.io/chessagon.
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Like Chess . . . But With Triangles
+app_description                           : Hexalateral Chess
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,11 +35,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Custom Boards
-    description                           : Choose from twelve different boards composed of natural Bamboo, Sandstone, Slate, Cork, Marble, Maple, Frost, Quiche, Furnace, Metal, Tropic and Picnic with space highlighting in complentary colors.
+    description                           : Choose from twelve different boards composed of natural textures like Bamboo, Sandstone, Slate, Cork, Marble, Maple, Frost, Quiche, Furnace, Metal, Tropic and Picnic with space highlighting in complementary colors.
     fontawesome_icon_name                 : chess-board
 
   - title                                 : Custom Pieces
-    description                           : Choose from twelve different styles of piece sets with four traditional styles like Keystone and Newline; or choose from eight new styles uniquely designed for play in triangular spaces like Alice, Iconic, Signet and Plumbline.
+    description                           : Choose from twelve different styles of piece sets with four traditional styles like Classic, Keystone, Newline and Outline; or choose from eight new styles uniquely designed for play in triangular spaces like Alice, Ducal, Hexheads, Iconic, Isometric, Plumbline, Signet and Snowmen.
     fontawesome_icon_name                 : chess
 
   - title                                 : Pawn

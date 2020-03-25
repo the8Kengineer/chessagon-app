@@ -36,7 +36,7 @@ History of the public releases of the CHESSAGON® app on the Apple AppStore for 
 - Continued improvements of AI computer opponent for strength and speed.
 
 #### Bug Fixes
-- Fixed "AI" oppoenet skipping it's own turn when in check.
+- Fixed "AI" opponent skipping it's own turn when in check.
 - Fixed "AI" opponent from moving through other pieces on the board.
 
 <br>

@@ -68,7 +68,7 @@ registered trademark of SiliconLoom, LLC
 <br>
 CHESSAGON® Game App
 <br>
-© 2017-2018 
+© 2017-2020 
 <br>
 All Rights Reserved by SiliconLoom, LLC
 <br>
