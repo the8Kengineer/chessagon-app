@@ -4,10 +4,12 @@ title: Data Privacy
 include_in_header: true
 ---
 
-**Last updated**  
-March 20th, 2020
 
 # Data Privacy Policy
+
+**Last updated**  
+March 29th, 2020
+
 This Privacy Policy governs the manner in which SiliconLoom LLC collects, uses, maintains and discloses information collected from users of the CHESSAGON® application. This privacy policy applies to the application and all products and services offered by SiliconLoom LLC for the CHESSAGON® mobile application.
 
 <br>
@@ -73,5 +75,5 @@ CHESSAGON® Game App
 All Rights Reserved by SiliconLoom, LLC
 <br>
 <br>
-This document was last updated on March, 20th, 2020
+
 

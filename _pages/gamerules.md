@@ -6,6 +6,9 @@ include_in_header: true
 
 # Chessagon Rules
 
+**Last updated**  
+March 29th, 2020
+
 ![Chessagon Knight](../assets/rulesimages/ShareKnight3-260x300.png "Chessagon Knight")
  
  <br>

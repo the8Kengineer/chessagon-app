@@ -6,6 +6,9 @@ include_in_header: true
 
 # Frequently Asked Questions
 
+**Last updated**  
+March 29th, 2020
+
 <br>
 
 **Q:** What is the cost for CHESSAGON®  on the AppStore®?
@@ -34,7 +37,7 @@ include_in_header: true
  
  **Q:** What is the cost for the "Buy All Sets" Bundle?
 
- **A:** The Buy All Sets Bundle In-App purchase is available for 3.99 USD, which is a 75% discount per Board Set  and Piece Set included.  This lets you get everything for the price of a basic happy meal; and is far more stimulating for your brain than a happy meal toy.
+ **A:** The Buy All Sets Bundle In-App purchase is available for 3.99 USD, which is a 75% discount per Board Set  and Piece Set included.  This lets you get everything for less than  the price of an extra-shot double-whipped latte or your favorite fast-food take-out meal; and it is far more stimulating for your brain and much better for your body.
 
   <br>
   
@@ -55,5 +58,6 @@ include_in_header: true
  **A:** No... any game can be paused and then resumed at your convenience.  Feel free to take all day.  Multiple games with multiple people... or the computer... can be played, paused, and resumed at any time.  There is always plenty of time to just sit and think a while... remember, it's a strategy game... and any good strategy takes time and practice to develop.
 
   <br>
+  
  
 
