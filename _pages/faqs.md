@@ -7,7 +7,7 @@ include_in_header: true
 # Frequently Asked Questions
 
 **Last updated**  
-March 29th, 2020
+March 31st, 2020
 
 <br>
 

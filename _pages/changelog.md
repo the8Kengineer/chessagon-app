@@ -7,7 +7,7 @@ include_in_header: true
 # What's New
 
 **Last updated**  
-March 29th, 2020
+March 31st, 2020
 
 ________
 
@@ -15,11 +15,12 @@ ________
 History of the public releases of the CHESSAGON® app on the Apple AppStore for iPhone and iPad.
 
 ### `Latest Release`
-### **Version 2.1.14**
+### **Version 2.2.1**
 #### What's New
 - Removed All Advertisements
 - Updated to support iOS 13 and iPadOS 13
 - Support for new models of iPhone 11 and iPad Pro
+- Added launch buttons for website links for further information on Chessagon support information.
 - Doubled the number of free Boards (4) and Piece Sets (4) available. Allows for a default of 16 total combinations of boards and piece sets to choose from for game play.
 - In-App purchase prices greatly reduced for Boards (8) and Piece Sets (8) bundles. Allows for a maximum of 144 total combinations of boards and piece sets to choose from for game play.
 - Added launch buttons for website links.
