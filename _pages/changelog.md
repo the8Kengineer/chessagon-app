@@ -23,7 +23,7 @@ History of the public releases of the CHESSAGON® app on the Apple AppStore for 
 - Added launch buttons for website links for further information on Chessagon support information.
 - Doubled the number of free Boards (4) and Piece Sets (4) available. Allows for a default of 16 total combinations of boards and piece sets to choose from for game play.
 - In-App purchase prices greatly reduced for Boards (8) and Piece Sets (8) bundles. Allows for a maximum of 144 total combinations of boards and piece sets to choose from for game play.
-- Added launch buttons for website links.
+
 
 #### Bug Fixes
 - Fixed app freezing at launch on iOS 13+ devices during splash screen.

@@ -31,3 +31,45 @@ The game includes multiple modes of play, including:
 <br>
 Online players are ranked according to the Glicko rating system.
 
+## Free Piece Sets and Boards
+This latest version of CHESSAGON® doubled the number of free Piece Sets (Alice, Iconic, Plubmline, Signet) and Boards (Bamboo, Furnace, Sandstone, Slate) now available. Allows for a default of 16 total combinations of boards and piece sets to choose from for game play.  Shown below are 4 of the 16 possible Free combinations.
+
+### Alice Piece Set on Bamboo Board
+![Alice Piece Set on Bamboo Board](../assets/Combinations/AliceBamboo320x375.png "Alice Piece Set on Bamboo Board")
+
+### Iconic Piece Set on Furnace Board
+![Iconic Piece Set on Furnace Board](../assets/Combinations/IconicFurnace320x375.png "Iconic Piece Set on Furnace Board")
+
+### Plumbline Piece Set on Sandstone Board
+![Plumbline Piece Set on Sandstone Board](../assets/Combinations/PlumblineSandstone320x375.png "Plumbline Piece Set on Sandstone Board")
+
+### Signet Piece Set on Slate Board
+![Signet Piece Set on Slate Board](../assets/Combinations/SignetSlate320x375.png "Signet Piece Set on Slate Board")
+
+
+## In-App Purchasable Piece Sets and Boards
+This latest version of CHESSAGON® has greatly reduced the price for In-App purchase Piece Sets and Board bundles. Shown below are 8 of the 64 possible new In-App purchase combinations. Using Free and In-App purchase combinations together allows for a maximum total of 144 (12x12) combinations of piece sets and boards  to choose from for game play.
+
+### Classic Piece Set on Maple Board
+![Classic Piece Set on Maple Board](../assets/Combinations/ClassicMaple320x375.png "Classic Piece Set on Maple Board")
+
+### Keystone Piece Set on Marble Board
+![Keystone Piece Set on Marble Board](../assets/Combinations/KeystoneMarble320x375.png "Keystone Piece Set on Marble Board")
+
+### Newline Piece Set on Tropic Board
+![Newline Piece Set on Tropic Board](../assets/Combinations/NewlineTropic320x375.png "Newline Piece Set on Tropic Board")
+
+### Outline Piece Set on Cork Board
+![Outline Piece Set on Cork Board](../assets/Combinations/OutlineCork320x375.png "Outline Piece Set on Cork Board")
+
+### Ducal Piece Set on Metal Board
+![Ducal Piece Set on Metal Board](../assets/Combinations/DucalMetal320x375.png "Ducal Piece Set on Metal Board")
+
+### HexHeads Piece Set on Picnic Board
+![Hexheads Piece Set on Picnic Board](../assets/Combinations/HexheadsPicnic320x375.png "Hexheads Piece Set on Picnic Board")
+
+### Isometric Piece Set on Quiche Board
+![Isometric Piece Set on Quiche Board](../assets/Combinations/IsometricQuiche320x375.png "Isometric Piece Set on Quiche Board")
+
+### Snowmen Piece Set on Frost Board
+![Snowmen Piece Set on Frost Board](../assets/Combinations/SnowmenFrost320x375.png "Snowmen Piece Set on Frost Board")
